@@ -1,0 +1,7 @@
+{
+  "python.py::MyTestCase::test_something": true,
+  "test_assert.py": true,
+  "test_guess.py::GuessTestCase::test_guess": true,
+  "test_password.py::MyTestCase::test_week_password": true,
+  "test_password_2.py::PasswordWithJsonTestCase::test_week_password": true
+}
